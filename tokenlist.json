@@ -1,0 +1,242 @@
+{
+  "name": "Glacier Exchange",
+  "logoURI": "https://www.glacier.exchange/tokens/GLCR.png",
+  "keywords": ["avalanche", "amm"],
+  "timestamp": "2023-03-30T10:01:21.042+00:00",
+  "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://www.glacier.exchange/tokens/WAVAX.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x3712871408a829c5cd4e86da1f4ce727efcd28f6",
+      "name": "Glacier",
+      "symbol": "GLCR",
+      "decimals": 18,
+      "logoURI": "https://www.glacier.exchange/tokens/GLCR.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "name": "Tether USD",
+      "symbol": "USDT.e",
+      "decimals": 6,
+      "logoURI": "https://www.glacier.exchange/tokens/USDT.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+      "name": "Wrapped MEMO",
+      "symbol": "wMEMO",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "logoURI": "https://www.glacier.exchange/tokens/BTC.B.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5947bb275c521040051d82396192181b413227a3",
+      "name": "Chainlink Token",
+      "symbol": "LINK.e",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/chainlinktoken_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+      "name": "Yak Token",
+      "symbol": "YAK",
+      "decimals": 18,
+      "logoURI": "https://www.glacier.exchange/tokens/YAK.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xa41a879bcfdd75983a987fd6b68fae37777e8b28",
+      "name": "XEX Crypto",
+      "symbol": "XEX",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+      "name": "EURO COIN",
+      "symbol": "EUROC",
+      "decimals": 6,
+      "logoURI": "https://snowtrace.io/token/images/eurocoin_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/ethereum_32.png",
+      "nativeChainAddress": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+      "nativeChainId": 1
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
+      "name": "Fantom Bomb",
+      "symbol": "fBOMB",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x2c69095d81305F1e3c6ed372336D407231624CEa",
+      "name": "Oath Token",
+      "symbol": "OATH",
+      "decimals": 18,
+      "logoURI": "https://optimistic.etherscan.io/token/images/oath_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9df4Ac62F9E435DbCD85E06c990a7f0ea32739a9",
+      "name": "Granary Token",
+      "symbol": "GRAIN",
+      "decimals": 18,
+      "logoURI": "https://optimistic.etherscan.io/token/images/granaryfinance_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x089d3dAF549f99553C2182DB24bC4336A4F0C824",
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x33f0a866d9024d44de2E0602f4C9B94755944B6F",
+      "name": "gmdUSDC",
+      "symbol": "gmdUSDC",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x09EF821c35B4577f856cA416377Bd2ddDBD3d0C9",
+      "name": "Mammoth",
+      "symbol": "MMTH",
+      "decimals": 18,
+      "logoURI": "https://www.glacier.exchange/tokens/MMTH.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+      "name": "YieldFarming Index",
+      "symbol": "YFX",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+      "name": "DEUS",
+      "symbol": "DEUS",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/deusfinance_new_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "decimals": 6,
+      "logoURI": "https://snowtrace.io/token/images/tether_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://snowtrace.io/token/images/usdc_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1FE70939c2cEc8F31E8F7729442658586B469972",
+      "name": "GMD",
+      "symbol": "GMD",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x293EB6828b01Ed6dca8e72257f5D3Df2A36C9007",
+      "name": "SHRAPNEL",
+      "symbol": "SHRP",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xF7554D17d1c3F09899dCc8B404beCAE6dFA584Fa",
+      "name": "Magik",
+      "symbol": "MAGIK",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x1e3c6c53F9f60BF8aAe0D7774C21Fa6b1afddC57",
+      "name": "xSHRAP",
+      "symbol": "xSHRAP",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xE98786B94520772DD9efcC670d72939e184A6198",
+      "name": "Sphere veGLCR Staker",
+      "symbol": "spGLCR",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA0105D7fc6190598523f568001A71164341b0A22",
+      "name": "Subzero",
+      "symbol": "SUB",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/gmxavax_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
+      "decimals": 18,
+      "name": "Angle EURO",
+      "symbol": "agEUR",
+      "logoURI": "https://snowtrace.io/token/images/ageurangle_32.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xfDECfC325B584A96E86caBD2eb492320467ed1d8",
+      "decimals": 18,
+      "name": "MIGHT",
+      "symbol": "MIGHT",
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    }
+  ]
+}

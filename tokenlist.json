@@ -237,6 +237,14 @@
       "name": "MIGHT",
       "symbol": "MIGHT",
       "logoURI": "https://snowtrace.io/images/main/empty-token.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+      "decimals": 18,
+      "name": "DEI",
+      "symbol": "DEI",
+      "logoURI": "https://snowtrace.io/images/main/empty-token.png"
     }
   ]
 }
